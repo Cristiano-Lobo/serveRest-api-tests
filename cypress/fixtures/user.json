@@ -1,0 +1,6 @@
+{
+  "nome": "Usuario Base",
+  "email": "user_base@teste.com",
+  "password": "1234",
+  "administrador": "false"
+}
